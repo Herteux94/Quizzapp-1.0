@@ -1,0 +1,43 @@
+/* PT Sans */
+
+@font-face {
+    font-family: 'PT Sans Regular';
+    src: url('./font/PT\ Sans\ Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'PT Sans Bold';
+    src: url('./font/PT\ Sans\ Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.welcome-card-gap{
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    flex: 0.8;
+    background-color: RGB(254, 250, 239);
+}
+
+
+.flex-direction-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.flex-direction-center-text{
+    text-align: center;
+}
+
+
+.pt-sans-bold{
+    font-family:;
+}
